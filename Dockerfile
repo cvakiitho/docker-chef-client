@@ -4,7 +4,7 @@
 # Date: 08/04/2013
 
 
-FROM ubuntu:12.04
+FROM ubuntu:14.04
 MAINTAINER Paul Czarkowski "paul@paulcz.net"
 
 RUN apt-get -yqq update \
